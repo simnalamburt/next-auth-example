@@ -2306,7 +2306,7 @@ next@^10.0.6:
 
 "next@patch:next@^10.0.6#./next.patch::locator=next-auth-example%40workspace%3A.":
   version: 10.0.7
-  resolution: "next@patch:next@npm%3A10.0.7#./next.patch::version=10.0.7&hash=b1bf88&locator=next-auth-example%40workspace%3A."
+  resolution: "next@patch:next@npm%3A10.0.7#./next.patch::version=10.0.7&hash=9e64db&locator=next-auth-example%40workspace%3A."
   dependencies:
     "@babel/runtime": 7.12.5
     "@hapi/accept": 5.0.1
@@ -2363,7 +2363,7 @@ next@^10.0.6:
       optional: true
   bin:
     next: dist/bin/next
-  checksum: 92b8f0bbf1f1ac1a713d6f48b3cc15486fddef600a9b632ad41040cb6c0d00376f1383b8e96e4427e00673999077382136fd4717511d73d1bac2c68cd18c1053
+  checksum: 3a926c186fba14c98216325d1b124b6b1d6c0c051bbdb063aaf6d8e64b344d89bc9ef5e73712b75c4346c5f911cbcea26206150be68df92bc5b9ad937d7da24f
   languageName: node
   linkType: hard
 
